@@ -1,0 +1,16 @@
+* {
+    background-color: bisque;
+}
+h1 {
+    background-color: rgba(175, 143, 239, 0.298);
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+h2 {
+    color: rgb(34, 34, 151);
+    font-style: oblique;
+}
+p{
+    background-color:rgba(175, 143, 239, 0.298); ;
+}
